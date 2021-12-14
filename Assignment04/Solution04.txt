@@ -1,0 +1,28 @@
+METADATA
+
+My Name
+Junyu Wang
+
+My Net ID
+jw6602
+
+Computer I used to produce the ER diagram
+My own computer. MacBook Pro (13-inch, M1, 2020)
+
+The operating system on the computer I used
+macOS Big Sur 11.1
+
+
+ANNOTATIONS
+
+1. RegNumber for a Company is always known and unique.
+
+2. A Small Company cannot Help itself.
+
+3. The intersection of a Small Company and Big Company is empty.
+
+4. Bonus is computed as 5% of Salary.
+
+RESPONSES
+
+(a) Yes

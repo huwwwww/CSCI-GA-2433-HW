@@ -1,0 +1,20 @@
+METADATA
+
+My Name
+Zvi Kedem
+
+My Net ID
+zk1
+
+Computer I used to produce the ER diagram
+My own computer, which is Dell Inspiron
+
+The operating system on the computer I used
+Microsoft Windows 10 Education
+
+
+ANNOTATIONS
+
+1. Size when known is at least 100,000
+
+2. Helps is a total function

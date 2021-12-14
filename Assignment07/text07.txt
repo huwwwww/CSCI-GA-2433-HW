@@ -1,0 +1,35 @@
+jw6602
+
+Please replace the NetID above with your own NetID
+
+Please replace [] parts with your own answer.
+
+
+ANSWER5:
+- Tables changed (if any): Helps, Small, Company_Domain, Company
+    - Explain: It is required to drop the TIN which must be dropped from the bottom otherwise will fail due to the foreign key constraint.
+- Error messages (if any): N
+    - Message: 
+    - Explain: 
+
+ANSWER6:
+- Tables changed (if any): Manager, Big
+    - Explain: It is required to insert the new manager into Manager table and update the existing record(corresponding to the given TIN) in Big table with the same info.
+- Error messages (if any): N
+    - Message: 
+    - Explain: 
+
+ANSWER7:
+- Tables changed (if any): Big, Small
+    - Explain: It is required to drop the record(corresponding to the given TIN) from Big table and insert it into Small table. This company does not have manager so we don't need to drop it.
+- Error messages (if any): N
+    - Message: 
+    - Explain:
+
+
+ANSWER8:
+- Tables changed (if any):
+    - Explain: 
+- Error messages (if any): Y
+    - Message: ORA-02291: integrity constraint (JW6602.SMALL_HELPS_FK) violated - parent key not found 
+    - Explain: The parent key EIN has been dropped in ANSWER5.

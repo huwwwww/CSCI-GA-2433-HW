@@ -1,0 +1,18 @@
+METADATA
+
+My Name
+Junyu Wang
+
+My Net ID
+jw6602
+
+Computer I used to produce the ER diagram
+My own computer. MacBook Pro (13-inch, M1, 2020)
+
+The operating system on the computer I used
+macOS Big Sur 11.1
+
+
+ANNOTATIONS
+
+1. Size when known is at least 100,000
